@@ -112,7 +112,7 @@ with ranking_tab:
 
     # Display the ranking data in a dataframe
     with st.container(border=False):
-        st.header(f"ICC {st.session_state.format_type} Ranking 2024 - {'men\'s' if st.session_state.prev_is_women == '0' else 'women\'s'} {st.session_state.category}")
+        st.header(f"ICC {st.session_state.format_type} Ranking 2024 - {'men' if st.session_state.prev_is_women == '0' else 'women'} {st.session_state.category}")
 
         try:
             df = helpers.get_ranking_data(st.session_state.icc_ranking_data)
