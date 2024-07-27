@@ -36,7 +36,7 @@ The ICC Records Tab presents ICC records data, such as all-time most runs in tes
 
 ## Deployment
 
-- for deploment I have used - Streamlit Cloud Community
+- for deployment I have used - Streamlit Cloud Community
 
 - [@App is Live](https://rapidcricbuzzapi-implementation.streamlit.app/)
 
