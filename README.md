@@ -1,5 +1,5 @@
 
-# Project Title
+# Rapid CricBuzz Api - Implementation
 
 The Streamlit app is configured with a title, icon, layout, and sidebar state, featuring tabs for "Series List," "ICC Rankings," and "ICC Records." 
 
